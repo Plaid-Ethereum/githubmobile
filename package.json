@@ -29,7 +29,7 @@
     "brunch": "1.0.x",
     "express": "2.5.x",
     "oauth": "0.9.x",
-    "nib": "0.3.2",
+    "nib": "0.9.2",
     "stylus": "0.24"
   },
   "devDependencies": {
