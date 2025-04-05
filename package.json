@@ -24,7 +24,7 @@
     "eco-brunch": "1.0.x",
 
     "uglify-js-brunch": "1.0.x",
-    "clean-css-brunch": "1.0.x",
+    "clean-css-brunch": "1.8.0",
 
     "brunch": "1.0.x",
     "express": "2.5.x",
