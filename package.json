@@ -30,7 +30,7 @@
     "express": "2.5.x",
     "oauth": "0.9.x",
     "nib": "0.3.2",
-    "stylus": "0.24"
+    "stylus": "0.64.0"
   },
   "devDependencies": {
     "mocha": "0.14.0",
